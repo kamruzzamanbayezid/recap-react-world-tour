@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1 className='text-center mb-5 underline font-medium'>Vite + React</h1>
+      <h1 className='text-center mb-5 underline font-medium'>Recap Of React World Tour</h1>
       <Countries></Countries>
     </>
   )
